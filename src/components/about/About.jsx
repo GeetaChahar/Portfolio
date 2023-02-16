@@ -4,6 +4,7 @@ import ME from '../../assets/me-about.jpg'
 import { FaAward } from 'react-icons/fa'
 import { SiFurrynetwork } from 'react-icons/si'
 import { VscFolderLibrary } from 'react-icons/vsc'
+import { GiTalk } from 'react-icons/gi'
 
 const About = () => {
     return (
@@ -21,13 +22,13 @@ const About = () => {
                 <div className='about_content'>
                     <div className='about_cards'>
                         <article className='about_card'>
-                            <FaAward className='about_icon' />
+                            <SiFurrynetwork className='about_icon' />
                             <h5>Experience</h5>
                             <small> Fresher With Good Projects</small>
                         </article>
 
                         <article className='about_card'>
-                            <SiFurrynetwork className='about_icon' />
+                            <FaAward className='about_icon' />
                             <h5>Internship</h5>
                             <small>Though NFL</small>
                         </article>
@@ -42,7 +43,7 @@ const About = () => {
                     <p>
                         Hey I'm Geeta Chahar from Gwalior. I'm looking for good opportunity to use my skills in real life projects, as the system necessarily in demand of curious learner and obeserved I have keen interest in web development this is where I can fit in.
                     </p>
-                    <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+                    <a href='#contact' className='btn btn-primary'><GiTalk /> Let's Talk</a>
                 </div>
             </div>
         </section>

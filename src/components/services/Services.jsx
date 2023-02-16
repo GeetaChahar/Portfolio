@@ -11,37 +11,37 @@ const Services = () => {
             <div className='container services_container'>
                 <article className='service'>
                     <div className='service_head'>
-                        <h3>UI/UX Design</h3>
+                        <h3>ReactJs</h3>
                     </div>
 
                     <ul className='service_list'>
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Hands on using react-icon to give unique touch.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Used SwiperJs with various feature.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Made live weather-app with changing background along with temperature.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>To-do list using ReactJs.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Learnt with-in a month and got familiar with ReactJs</p>
                         </li>
                     </ul>
                 </article>
-                {/* {END OF UI/UX} */}
+                {/* {END OF REACTJS} */}
                 <article className='service'>
                     <div className='service_head'>
                         <h3>Wev Development</h3>
@@ -50,32 +50,32 @@ const Services = () => {
                     <ul className='service_list'>
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>My favorite part is to design web-page.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>I have included my painting gallery in !Housite page.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Designing interest in same boost me to complete all task.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>I have color combo talent from childhood which now converted in skills I have worked on them.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>My way of using data behind the web-page is unique.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Made logos for the web-site which resonate with site.</p>
                         </li>
                     </ul>
                 </article>
@@ -88,27 +88,27 @@ const Services = () => {
                     <ul className='service_list'>
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>I can create content along with content writing which most people praised.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Content writing adds beauty in Content and my word selections are good.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>I have good knowledge of selecting data according to topic.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Content Creation skill I have learnt in school from various projects.</p>
                         </li>
 
                         <li>
                             <BiCheck className='service_list-icon' />
-                            <p>Let's update our brower iit ok to be goo grirl</p>
+                            <p>Tech content is different and roots are the same that's way my content is unique.</p>
                         </li>
                     </ul>
                 </article>

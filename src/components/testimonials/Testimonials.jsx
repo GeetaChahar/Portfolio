@@ -19,23 +19,23 @@ import 'swiper/css/pagination';
 const data = [
     {
         avatar: AVTR1,
-        name: 'Savita',
-        review: ' hhfkeh hjkhfhk dhkhskdh dhhkhh dhkhkh dhjshkehfukeh sashuhiwau uih sdhhdf hskhcduew  h ceuyfhdsh uhiusd huhiu uhwf h hsdhfiheiu duhsuh usdhuruf hduscueghh hsdhkufhkuse hskdhfuskeu udshkuukh d skuhskuhukdhkuhck  sdkuhfkuukh'
+        name: 'Ipshita',
+        review: 'Your designs are good and upgrading day by day. Very easy to understand where we have to click and select. Mainly styling is great and also the color combo used by you is best.'
     },
     {
         avatar: AVTR2,
-        name: 'Savita',
-        review: ' hhfkeh hjkhfhk dhkhskdh dhhkhh dhkhkh dhjshkehfukeh sashuhiwau uih sdhhdf hskhcduew  h ceuyfhdsh uhiusd huhiu uhwf h hsdhfiheiu duhsuh usdhuruf hduscueghh hsdhkufhkuse hskdhfuskeu udshkuukh d skuhskuhukdhkuhck  sdkuhfkuukh'
+        name: 'Gauri',
+        review: 'Those web-pages build using HTML5, CSS3 and JavaScript are too compatible to pages built in ReactJs your selective styles are good, your progress is very fast, keep it up. '
     },
     {
         avatar: AVTR3,
-        name: 'Savita',
-        review: ' hhfkeh hjkhfhk dhkhskdh dhhkhh dhkhkh dhjshkehfukeh sashuhiwau uih sdhhdf hskhcduew  h ceuyfhdsh uhiusd huhiu uhwf h hsdhfiheiu duhsuh usdhuruf hduscueghh hsdhkufhkuse hskdhfuskeu udshkuukh d skuhskuhukdhkuhck  sdkuhfkuukh'
+        name: 'Nisha',
+        review: 'The way you manage page with JSX is looking easy and inspire me to learn for the same, can you add more good projects built with ReactJs so that we can get an idea of updating ours.'
     },
     {
         avatar: AVTR4,
-        name: 'Savita',
-        review: ' hhfkeh hjkhfhk dhkhskdh dhhkhh dhkhkh dhjshkehfukeh sashuhiwau uih sdhhdf hskhcduew  h ceuyfhdsh uhiusd huhiu uhwf h hsdhfiheiu duhsuh usdhuruf hduscueghh hsdhkufhkuse hskdhfuskeu udshkuukh d skuhskuhukdhkuhck  sdkuhfkuukh'
+        name: 'Saloni',
+        review: 'When I used your weather-app it seems like we can fatch data though api is easy and I have decided to build my own live weather-app working on mobile with different view.'
     }
 ]
 

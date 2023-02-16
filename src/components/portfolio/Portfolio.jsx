@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 //  REMOVE THIS CONTENT ONCE ADDED MY OWN IMAGES
@@ -13,43 +13,43 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'First image of data',
-        github: 'https://github.com/GeetaChahar',
-        demo: 'https://github.com/GeetaChahar'
+        title: 'First image of !Housite web-page',
+        github: 'https://github.com/GeetaChahar/-Housite/tree/main/!Housite',
+        demo: 'https://github.com/GeetaChahar/-Housite/tree/main/!Housite'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'First image of data',
-        github: 'https://github.com/GeetaChahar',
+        title: 'Second image of My-site web-page',
+        github: 'https://github.com/GeetaChahar/My-Site/tree/main/My%20Site',
         demo: 'https://github.com/GeetaChahar'
     },
     {
         id: 3,
         image: IMG3,
-        title: 'First image of data',
-        github: 'https://github.com/GeetaChahar',
+        title: 'Third image of to-do list in Reactjs',
+        github: 'https://github.com/GeetaChahar/react-js-todo-app',
         demo: 'https://github.com/GeetaChahar'
     },
     {
         id: 4,
         image: IMG4,
-        title: 'First image of data',
-        github: 'https://github.com/GeetaChahar',
+        title: 'Forth image of weather-app in Reactjs',
+        github: 'https://github.com/GeetaChahar/weather-react',
         demo: 'https://github.com/GeetaChahar'
     },
     {
         id: 5,
         image: IMG5,
-        title: 'First image of data',
-        github: 'https://github.com/GeetaChahar',
+        title: 'Fifth image of video-onClick in Reactjs',
+        github: 'https://github.com/GeetaChahar/On-Boarding-Page',
         demo: 'https://github.com/GeetaChahar'
     },
     {
         id: 6,
         image: IMG6,
-        title: 'First image of data',
-        github: 'https://github.com/GeetaChahar',
+        title: 'Sixth image of color-gallery in web-page',
+        github: 'https://github.com/GeetaChahar/-Housite',
         demo: 'https://github.com/GeetaChahar'
     },
 

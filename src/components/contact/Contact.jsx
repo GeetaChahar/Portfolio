@@ -1,8 +1,8 @@
 import React from 'react'
 import './contact.css'
-import { MdOutlineEmail } from 'react-icons/md'
-import { RxLinkedinLogo } from 'react-icons/rx'
-import { RiWhatsappLine } from 'react-icons/ri'
+import { BsLinkedin } from 'react-icons/bs'
+import { FaGithub } from 'react-icons/fa'
+import { CgMail } from 'react-icons/cg'
 import { useRef } from 'react'
 import emailjs from 'emailjs-com'
 
@@ -30,24 +30,24 @@ const Contact = () => {
             <div className='container contact_container'>
                 <div className='contact-options'>
                     <article className='contact_option'>
-                        <MdOutlineEmail className='contact_option-icon' />
-                        <h4>Email</h4>
+                        <BsLinkedin className='contact_option-icon' />
+                        <h4>LinkedIn</h4>
+                        <h5>GeetaChahar</h5>
+                        <a href='https://www.linkedin.com/in/geeta-chahar' target='_blank'>Contact With Me</a>
+                    </article>
+
+                    <article className='contact_option'>
+                        <FaGithub className='contact_option-icon' />
+                        <h4>Github</h4>
+                        <h5>GeetaChahar</h5>
+                        <a href='https://github.com/GeetaChahar' target='_blank'>Check My Skills</a>
+                    </article>
+
+                    <article className='contact_option'>
+                        <CgMail className='contact_option-icon' />
+                        <h4>Gmail</h4>
                         <h5>vgeetachahar@gmail.com</h5>
                         <a href='mailto:vgeetachahar@gmail.com' target='_blank'>Send a message</a>
-                    </article>
-
-                    <article className='contact_option'>
-                        <RxLinkedinLogo className='contact_option-icon' />
-                        <h4>LinkedIn</h4>
-                        <h5>geetachahar</h5>
-                        <a href='https://m.me/geeta-chahar' target='_blank'>Send a message</a>
-                    </article>
-
-                    <article className='contact_option'>
-                        <RiWhatsappLine className='contact_option-icon' />
-                        <h4>Whatsapp</h4>
-                        <h5>+9100000000</h5>
-                        <a href='https://api.whatsapp.com/send?phone+57833798236' target='_blank'>Send a message</a>
                     </article>
                 </div>
                 {/* {END OF CONTACT SECTION} */}
